@@ -18,17 +18,16 @@ Here are some ideas to get you started:
 # I'm Surjith
 
 🎓 Computer Science Student
-💻 Aspiring Software Developer | Web Developer
+💻 Aspiring Software Developer | Full Stack Developer
 🚀 Passionate about building web applications and solving problems with code.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🌱 Currently learning **Full Stack Development**
+* 🌱 **Full Stack Developer**
 * 💡 Interested in **Web Development, DevOps, and Software Engineering**
 * 🔭 Working on a project: **AgriGate – Direct Farmer to Customer Platform using MERN Stack**
-* 🧠 Practicing **Data Structures & Algorithms**
 * 🎯 Goal: Become a **Skilled Software Developer**
 
 ---
